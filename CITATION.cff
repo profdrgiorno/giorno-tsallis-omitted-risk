@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Omitted risk in fitted return models: displacement, regret, and a robust test for one-sided jumps (replication code)"
+authors:
+  - family-names: Giorno
+    given-names: Joilson
+    affiliation: "State University of Maringá (UEM), Graduate Program in Economics"
+    email: jgiorno@uem.br
+date-released: 2026-11-05
+license: PolyForm-Noncommercial-1.0.0

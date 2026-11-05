@@ -1,0 +1,11 @@
+,p_robJ_t,p_robJ_t,p_robJ_g,p_robJ_g,p_naive_t,p_naive_t,p_naive_g,p_naive_g
+arm,jump,nojump,jump,nojump,jump,nojump,jump,nojump
+scenario,,,,,,,,
+calibration_anchor,41.3,6.5,60.9,2.2,100.0,100.0,100.0,73.9
+full_hmm6,60.9,0.0,80.4,0.0,30.4,0.0,23.9,0.0
+iid_mixture,78.3,4.3,76.1,4.3,34.8,0.0,37.0,0.0
+scale_only,69.6,8.7,73.9,2.2,54.3,2.2,43.5,0.0
+single_student_t,89.1,2.2,89.1,2.2,37.0,0.0,23.9,0.0
+tail_only,91.3,4.3,89.1,4.3,28.3,0.0,34.8,0.0
+weak_persistence,69.6,2.2,69.6,2.2,19.6,0.0,23.9,0.0
+weak_tail,84.8,6.5,82.6,6.5,21.7,0.0,23.9,0.0

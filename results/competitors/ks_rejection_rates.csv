@@ -1,0 +1,9 @@
+scenario,jump,jumpbig,skew90,skew95,sym
+calibration_anchor,33.4,31.4,83.8,45.4,20.4
+full_hmm6,20.8,27.8,87.4,29.6,8.8
+iid_mixture,10.2,21.0,95.0,35.2,5.8
+scale_only,25.4,28.4,90.4,32.8,5.4
+single_student_t,10.4,24.8,93.6,37.6,5.0
+tail_only,10.8,19.4,92.8,34.6,4.4
+weak_persistence,11.0,26.0,94.8,37.4,4.8
+weak_tail,12.4,21.2,93.6,35.4,5.4
