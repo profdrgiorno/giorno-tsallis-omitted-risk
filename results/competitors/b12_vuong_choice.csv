@@ -1,0 +1,6 @@
+arm,jumps,skew-t,undecided,rejected_paths
+jump,0.3,10.4,89.3,3172
+jumpbig,76.4,0.8,22.8,3870
+skew90,0.4,74.2,25.4,3669
+skew95,0.0,72.5,27.5,2229
+sym,0.0,55.4,44.6,168

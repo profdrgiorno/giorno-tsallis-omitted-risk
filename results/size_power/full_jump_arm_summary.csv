@@ -1,0 +1,17 @@
+arm,scenario,p_robJ_t,p_robJ_g,p_rob_t,p_rob_g,p_naive_t,p_naive_g,paths
+jump,calibration_anchor,40.0,62.8,41.6,63.2,100.0,99.6,500
+jump,full_hmm6,64.2,77.0,64.2,78.0,31.2,24.8,500
+jump,iid_mixture,87.8,87.6,88.0,87.6,32.6,32.0,500
+jump,scale_only,65.4,72.8,65.2,72.8,49.8,37.6,500
+jump,single_student_t,84.8,84.6,84.6,84.0,29.4,28.8,500
+jump,tail_only,90.6,90.2,90.6,90.2,32.6,33.8,500
+jump,weak_persistence,80.8,82.0,80.8,82.0,23.4,25.6,500
+jump,weak_tail,89.6,88.6,89.2,88.8,29.6,28.0,500
+nojump,calibration_anchor,5.6,4.0,5.8,4.0,99.6,81.0,500
+nojump,full_hmm6,4.4,4.4,4.8,4.4,0.0,0.0,500
+nojump,iid_mixture,3.8,3.8,3.6,3.8,0.0,0.0,500
+nojump,scale_only,5.2,4.8,5.4,5.0,0.8,0.0,500
+nojump,single_student_t,5.6,5.6,5.6,5.8,0.0,0.4,500
+nojump,tail_only,4.0,4.2,4.0,4.4,0.0,0.0,500
+nojump,weak_persistence,4.8,4.8,5.0,4.8,0.0,0.0,500
+nojump,weak_tail,2.6,2.6,2.6,2.6,0.0,0.0,500

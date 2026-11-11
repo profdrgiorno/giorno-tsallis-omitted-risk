@@ -1,0 +1,13 @@
+model,arm,yellow_pct,red_pct,capital_ratio,es975_shortfall_pct
+APARCH-t,jump01,17.05,0.05,0.984,2.532
+APARCH-t,jump02,20.55,0.175,0.963,5.124
+APARCH-t,nojump,12.5,0.025,1.008,-0.98
+GARCH-t,jump01,17.8,0.2,0.98,3.425
+GARCH-t,jump02,21.775,0.3,0.959,6.089
+GARCH-t,nojump,13.45,0.075,1.003,-0.096
+HMM-6,jump01,16.95,0.05,0.976,3.819
+HMM-6,jump02,21.125,0.075,0.953,6.723
+HMM-6,nojump,11.1,0.0,1.001,-0.022
+Student-t,jump01,16.05,0.15,1.021,-6.224
+Student-t,jump02,19.425,0.2,0.994,-2.549
+Student-t,nojump,12.825,0.175,1.051,-11.126

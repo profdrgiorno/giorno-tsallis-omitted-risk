@@ -1,0 +1,82 @@
+{
+ "calibration_anchor": {
+  "p00": 0.96,
+  "p11": 0.94,
+  "nu0": 12.0,
+  "nu1": 4.5,
+  "s0": 0.5,
+  "s1": 1.8,
+  "identification": "identifiable",
+  "note": "Strong identifiable state differences in both scale and tails; reference recovery case."
+ },
+ "tail_only": {
+  "p00": 0.975,
+  "p11": 0.85,
+  "nu0": 24.0,
+  "nu1": 4.6,
+  "s0": 0.9574271077563381,
+  "s1": 0.7518094115561123,
+  "identification": "identifiable",
+  "note": "Equal state variances=1, zero means. HMM persistence only in tail shape."
+ },
+ "scale_only": {
+  "p00": 0.965,
+  "p11": 0.82,
+  "nu0": 8.0,
+  "nu1": 8.0,
+  "s0": 0.65,
+  "s1": 1.65,
+  "identification": "identifiable",
+  "note": "Same degrees of freedom; regime-dependent scale/variance."
+ },
+ "full_hmm6": {
+  "p00": 0.97,
+  "p11": 0.86,
+  "nu0": 18.0,
+  "nu1": 5.2,
+  "s0": 0.7,
+  "s1": 1.45,
+  "identification": "identifiable",
+  "note": "Joint persistent differences in scale and tail shape."
+ },
+ "weak_tail": {
+  "p00": 0.975,
+  "p11": 0.85,
+  "nu0": 11.0,
+  "nu1": 8.0,
+  "s0": 0.9045340337332909,
+  "s1": 0.8660254037844386,
+  "identification": "weak",
+  "note": "Small tail contrast; expected weak practical identification."
+ },
+ "weak_persistence": {
+  "p00": 0.72,
+  "p11": 0.47,
+  "nu0": 24.0,
+  "nu1": 4.6,
+  "s0": 0.9574271077563381,
+  "s1": 0.7518094115561123,
+  "identification": "identifiable",
+  "note": "Weak positive serial state correlation: rho=0.19."
+ },
+ "iid_mixture": {
+  "p00": 0.82,
+  "p11": 0.18,
+  "nu0": 24.0,
+  "nu1": 4.6,
+  "s0": 0.9574271077563381,
+  "s1": 0.7518094115561123,
+  "identification": "identifiable",
+  "note": "HMM representation of iid tail mixture: rho=0."
+ },
+ "single_student_t": {
+  "p00": 0.975,
+  "p11": 0.85,
+  "nu0": 7.5,
+  "nu1": 7.5,
+  "s0": 0.8563488385776752,
+  "s1": 0.8563488385776752,
+  "identification": "unidentified",
+  "note": "Identical states: transition parameters unidentifiable; do NOT claim p recovery."
+ }
+}
